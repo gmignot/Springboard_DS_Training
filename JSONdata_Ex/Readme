@@ -1,0 +1,14 @@
+The ipython notebook contains the code to answer the different questions asked
+
+  Find the 10 countries with most projects
+  Find the top 10 major project themes (using column 'mjtheme_namecode')
+  In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
+
+After importing the data, I first looked at what was in it.
+Then, I used a counter to quickly identify the 10 countries with most projects.
+
+After that, I looked at the themes. In the dataframe, each row contains for the theme a list of dictionaries. 
+I first show an example with a missing value for the name (while code is always filled).
+Then, I create a dictionnary with each code associated to its name. I convert it to a list which will be easy to use later 
+(with index of the element = (code-1)
+Then, I fill in the missing values and count the occurences for each theme. Thanks to this count I can find the TOP 10 themes.
