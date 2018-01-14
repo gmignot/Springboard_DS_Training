@@ -1,0 +1,16 @@
+Here below my 3 ideas for a capstone project
+
+1 - Human Activity Recognition (HAR) with own dataset
+
+  HAR aims to recognize one person's activity (among the following : walking, walking downstairs, walking upstairs, sitting, standing and laying) based on smartphone sensor's data (accelerometer + gyro).
+  The goal would therefore be to classify the observations based on these 6 activities, thanks to machine learning.
+  
+  For the Dataset, the idea was maybe to record it myself with my smartphone so that I can understand all that stand behind the data collection process.
+  Otherwise, a dataset can be found here : https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/data
+  
+  2 - Concrete Compressive Strength
+  
+    Based on the proportion of the different elements used for making concrete, as well as its age, the idea is to establish a regression model to determine the concrete's compressive strength.
+    The dataset from Prof. I-Cheng Yeh can be found here : http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+    
+ 
