@@ -1,4 +1,4 @@
-Here below my 3 ideas for a capstone project
+Here below my 3 (now 4) ideas for a capstone project
 
 1 - Human Activity Recognition (HAR) with own dataset
 
@@ -8,9 +8,21 @@ Here below my 3 ideas for a capstone project
   For the Dataset, the idea was maybe to record it myself with my smartphone so that I can understand all that stand behind the data collection process.
   Otherwise, a dataset can be found here : https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/data
   
-  2 - Concrete Compressive Strength
+2 - Concrete Compressive Strength
   
-    Based on the proportion of the different elements used for making concrete, as well as its age, the idea is to establish a regression model to determine the concrete's compressive strength.
-    The dataset from Prof. I-Cheng Yeh can be found here : http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+  Based on the proportion of the different elements used for making concrete, as well as its age, the idea is to establish a regression model to determine the concrete's compressive strength.
+  The dataset from Prof. I-Cheng Yeh can be found here : http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+
+3 - Can housing price be predicted based on a few data from a real estate website ?
+
+  I know a lot of people have been working on the housing price based on different datasets available on the web. Still, I am really interested in giving it a try by myself. But I want to go through the whole process of collecting my data and wrangling it so that it is as close as possible to a real-life project. The idea here is to scrape the data from a real-estate website from Belgium. Then, based on the data I can collect (which vary a lot from one house to another), I want to give a price for this house.
+  I think a lot of my time will be spent collecting the data and cleaning it, which seems to be a big part of data scientist's job.
+  
+  
+4 - Air Handling Unit FDD
+
+  I asked a university for a large dataset of their AHU (Air Handling Unit) recordings (I don't have it yet). Based on this, I want to find a way to predict a fault, and eventually give a diagnosis. 
+ EDA will be really intersting for this project. 
+ Creating a FDD algorithm will be really helpful to monitor AHU's health.
     
  
